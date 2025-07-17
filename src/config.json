@@ -1,0 +1,14 @@
+{
+    "FIREBASE": {
+        "apiKey": "AIzaSyA4PUromRbu3X5n4utR6RLlxpgGKkwXwPY",
+        "authDomain": "langflow-pwa.firebaseapp.com",
+        "projectId": "langflow-pwa",
+        "storageBucket": "langflow-pwa.firebasestorage.app",
+        "messagingSenderId": "991299897723",
+        "appId": "1:991299897723:web:10ea8680824ed23e2395de",
+        "measurementId": "G-12E717XVRB"
+    },
+    "LANGFLOW_API_KEY": "sk-hUbFhiStykFkYrJ71G0bNeU6zmktUMlM700zxmXYwfA",
+    "CHATBOT_API_URL": "http://localhost:7860/api/v1/run/9dcee9cd-c3e7-4e2d-860e-43ac0f3fefd4",
+    "ASTRA_CLEAR_MEMORY_URL": "http://localhost:3001/clear-memory"
+}
